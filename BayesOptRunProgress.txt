@@ -3,3 +3,65 @@ Original Training X and Y :
 Run #1
 Initial Best Strucuture:   N#CC(COc1ccccc1)(c1ccccc1)c1ccccc1  has value:  -0.38669591000000003  Final Optimal Structure:   COc1ccc(C(C)C(C)Oc2ccccc2)cc1  has value: -0.004096100000000158
 ---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   N#Cc1ccc(C(C#N)(C#N)COc2ccccc2)cc1  has value:  -0.5413575500000001  Final Optimal Structure:   COCOC(c1ccccc1)C(c1ccccc1)(c1ccccc1)c1ccc(-c2ccccc2)cc1  has value: -0.13954748000000006
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COC(=O)c1ccc(C(C#N)C(Oc2ccccc2)c2ccccc2)cc1  has value:  -0.40201514000000005  Final Optimal Structure:   N#CC(Oc1ccccc1)C(c1ccccc1)c1ccc(-c2ccccc2)cc1  has value: -0.23693206999999994
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COCOC(C)C(C)(C)c1ccc(OC)cc1  has value:  -0.008474920000000052  Final Optimal Structure:   COCOC(C)C(C)(C)c1ccc(OC)cc1  has value: -0.008474920000000052
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   CCc1ccc(C(c2ccccc2)C(C)Oc2ccccc2)cc1  has value:  -0.19494703999999996  Final Optimal Structure:   c1ccc(OC(c2ccccc2)C(c2ccccc2)(c2ccccc2)c2ccc(-c3ccccc3)cc2)cc1  has value: -0.16936964
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COC(C)C(C)(c1ccccc1)c1ccccc1  has value:  -0.4900394899999998  Final Optimal Structure:   COCOC(OC)C(C)c1ccc(OC)cc1  has value: -0.004640299999999931
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COCOC(c1ccccc1)C(c1ccccc1)c1ccc(OC)cc1  has value:  -0.04863887  Final Optimal Structure:   COc1ccc(C(C)C(C)OC)cc1  has value: -0.005755909999999975
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COc1ccc(C(COc2ccccc2)(c2ccccc2)c2ccccc2)cc1  has value:  -0.09005248999999993  Final Optimal Structure:   COc1ccc(C(C)C(C)OC)cc1  has value: -0.005755909999999975
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COC(c1ccccc1)C(C)(C#N)c1ccc(-c2ccccc2)cc1  has value:  -0.3292556  Final Optimal Structure:   COCOC(OC)C(C)c1ccc(OC)cc1  has value: -0.004640299999999931
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COC(C)C(c1ccccc1)c1ccc(-c2ccccc2)cc1  has value:  -0.16512488000000003  Final Optimal Structure:   COc1ccc(C(C)C(OC)c2ccccc2)cc1  has value: -0.002599550000000006
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COC(C#N)C(c1ccccc1)c1ccc(-c2ccccc2)cc1  has value:  -0.24365294000000004  Final Optimal Structure:   COc1ccc(C(C)C(OC)c2ccccc2)cc1  has value: -0.002599550000000006
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   COCOC(Br)C(C#N)(c1ccccc1)c1ccc(N(C)C)cc1  has value:  -0.48669067  Final Optimal Structure:   COCOC(OC)C(C)c1ccc(OC)cc1  has value: -0.004640299999999931
+---------------------------
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   O=[N+]([O-])c1ccc(CC(Oc2ccccc2)c2ccccc2)cc1  has value:  -0.27276763999999987  Final Optimal Structure:   COc1ccc(C(C)C(OC)c2ccccc2)cc1  has value: -0.002599550000000006
+---------------------------
