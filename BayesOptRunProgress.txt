@@ -1,0 +1,5 @@
+Original Training X and Y : 
+(1424, 15)(1424,)
+Run #1
+Initial Best Strucuture:   N#CC(COc1ccccc1)(c1ccccc1)c1ccccc1  has value:  -0.38669591000000003  Final Optimal Structure:   COc1ccc(C(C)C(C)Oc2ccccc2)cc1  has value: -0.004096100000000158
+---------------------------
